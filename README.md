@@ -6,6 +6,7 @@
 * Text Editor: [Atom](https://atom.io)
 * Password Management Software (based upon KeePass): [MacPass](https://github.com/mstarke/MacPass)
 * Markdown Editor: [Mou](http://25.io/mou/)
+* Good file searcher: [ag](https://github.com/ggreer/the_silver_searcher)
 * Replacement Shell: [zsh](http://ohmyz.sh)
 * ZSH Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 * ZSH History: [fzf](https://github.com/junegunn/fzf/)
