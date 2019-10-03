@@ -11,11 +11,11 @@
 * Replacement Shell: [zsh](http://ohmyz.sh)
 * ZSH Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 * ZSH History: [fzf](https://github.com/junegunn/fzf/)
-* Command line HTTP client: [httppie](https://httpie.org/)
+* Command line HTTP client: [httpie](https://httpie.org/)
 * Make Curl prettier: [curlie](https://github.com/rs/curlie)
 * Nicely record terminal sessions: [asciinema](https://asciinema.org/)
 
 ## Environment Management Tools
-* Install and manage various versions of terraform [tfenv](https://github.com/tfutils/tfenv)
-* Load and unload environment variables depending on the current directory [direnv](https://github.com/direnv/direnv)
-* Install and manage various versions of Ruby [rbenv](https://github.com/rbenv/rbenv)
+* Install and manage various versions of terraform: [tfenv](https://github.com/tfutils/tfenv)
+* Load and unload environment variables depending on the current directory: [direnv](https://github.com/direnv/direnv)
+* Install and manage various versions of Ruby: [rbenv](https://github.com/rbenv/rbenv)
