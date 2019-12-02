@@ -11,6 +11,7 @@
 * Replacement Shell: [zsh](http://ohmyz.sh)
 * ZSH Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 * ZSH History: [fzf](https://github.com/junegunn/fzf/)
+* Nice font for ZSH [Meslo LG M DZ Regular for Powerline](https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.ttf)
 * Command line HTTP client: [httpie](https://httpie.org/)
 * Make Curl prettier: [curlie](https://github.com/rs/curlie)
 * Nicely record terminal sessions: [asciinema](https://asciinema.org/)
